@@ -1,0 +1,101 @@
+*,
+*::before, 
+*::after 
+{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+  
+
+.tab2{
+  margin-top: -950px;
+  margin-left: 300px;
+}
+
+
+* {
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.body {
+  background-color: #f5f5f5;
+  color: black;
+}
+
+
+.tablesize{
+  padding-top: 40px;
+  padding-left: 150px;
+  padding-bottom: 40px;
+ padding-left: 100px;
+}
+.ImgSize2
+{
+  width: 150px;
+}
+.card:hover
+{
+  box-shadow: 3px 3px 3px 3px rgb(88, 88, 88);
+  border: 2px;
+  border-radius: 10px;
+  
+}
+table
+{
+  margin-top: 50px;
+  margin-left: 200px;
+  padding-left:150px;
+ 
+}
+.Docbtn
+{
+  color: black;
+  background-color:springgreen;
+  border-radius: 10px;
+  height: 50px;
+  width: 120px;
+  font-size: 20px;
+  align-items: center;
+
+}
+button:hover {
+  background: rgb(237, 9, 9);
+  color: rgb(242, 238, 238);
+}
+.move
+{
+  padding-left: 150px;
+}
+.wobanner
+{
+  width: 400px;
+  height: 950px;
+
+}
+
+body 
+{
+  background-color: white;
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+.name{
+  color: rgb(1, 114, 170);
+  margin-right: 70PX;
+}
+
+
+
+
+
+
+
+
+
